@@ -1,4 +1,4 @@
-- 👋 Hi, I’m shilpa and my UID is chilli2k
+- 👋 Hi, I’m shilpa
 - 👀 I’m interested in coding in different programming languages. i'm good at coding in c, python , java and web development too.
 - 🌱 I’m currently learning machine learning, data Science and android development.
 - 💞️ I’m looking to collaborate on machine learning and web development.
