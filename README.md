@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on machine learning and web development.
 - 📫 Anyone can reach me out through my mail shilpaharithsa6@gmail.com..
 
-The project in my repo is my very first project on  web development. it is a small project on student managemnt system that was developed using html, css, php, and mysql. 
+explore the repos to check out my projects. 
